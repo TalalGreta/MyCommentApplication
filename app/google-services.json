@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101452254084",
+    "firebase_url": "https://my-commenting-project-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-commenting-project",
+    "storage_bucket": "my-commenting-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101452254084:android:c993ab39d31fd54bc72bd1",
+        "android_client_info": {
+          "package_name": "com.dam.mycommentapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101452254084-olkhfp2pd04l6g4hhbfq7dr7ddl3qabp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dam.mycommentapplication",
+            "certificate_hash": "0200d0b13150973f6e0aad99b13c83ef6145c46b"
+          }
+        },
+        {
+          "client_id": "101452254084-drrl4h9fhvc5vva0n146ups7l1u25u4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHE4wYHK1uhPQ_bVmAVztvK_VFroQxxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101452254084-drrl4h9fhvc5vva0n146ups7l1u25u4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
